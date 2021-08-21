@@ -56,5 +56,5 @@ def SVD(b ,A, X):
 
 
 if __name__ == '__main__':
-    df = pd.read_csv(r'C:\Users\humbe\OneDrive\Desktop\Data Science\Machine learning projects\Machine learning projects datasets\computerHardwareDataSet.csv', names=['vendor name', 'Model Name', 'MYCT', 'MMIN', 'MMAX', 'CACH', 'CHMIN', 'CHMAX', 'PRP', 'ERP']) #loads data set and assigns column name
+    df = pd.read_csv('computerHardwareDataSet.csv', names=['vendor name', 'Model Name', 'MYCT', 'MMIN', 'MMAX', 'CACH', 'CHMIN', 'CHMAX', 'PRP', 'ERP']) #loads data set and assigns column name
     Data_cleaner(df)
