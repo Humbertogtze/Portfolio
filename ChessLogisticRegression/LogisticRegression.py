@@ -42,5 +42,5 @@ def MatrixVisualization(y_test, y_pred):
 
 
 if __name__ == '__main__':
-    df = pd.read_csv(r'C:\Users\humbe\OneDrive\Desktop\Data Science\Machine learning projects\Machine learning projects datasets\kr-vs-kp.csv')
+    df = pd.read_csv('kr-vs-kp.csv')
     myLogisticRegresson(df)
