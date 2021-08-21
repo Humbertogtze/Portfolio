@@ -14,3 +14,7 @@ In conclusion, there seems to be a trend that older and less urbanized areas wan
 Correlation does not mean causation, so eachothr should not be taken as the motivs of the other.
 
 In this case, this trend goes along with the fact that older and less urbanized communities are more conservatives.
+
+Data from:
+https://www.kaggle.com/electoralcommission/brexit-results
+https://ons.maps.arcgis.com/home/item.html?id=a79de233ad254a6d9f76298e666abb2b
